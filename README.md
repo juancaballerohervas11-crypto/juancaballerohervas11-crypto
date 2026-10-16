@@ -1,4 +1,4 @@
-p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf5f00,100:8f2d0b&height=220&section=header&text=Juan%20Caballero%20Herv%C3%A1s&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Web%20Development%20Student%20%7C%20DAW&descSize=18&descAlignY=60" alt="Juan Caballero Hervás — Web Development Student" width="100%" />
 </p> <h1 align="center">Hi, I'm Juan 👋</h1> <p align="center">
   <strong>Web Development Student · Aspiring Full-Stack Developer</strong>  
